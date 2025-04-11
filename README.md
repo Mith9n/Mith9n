@@ -25,7 +25,6 @@
 
 ### 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/marufhasan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruf-hasan-mithon)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61561357648292)
 [![Email](https://img.shields.io/badge/Email-marufmithon09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marufmithon09@gmail.com)
