@@ -42,4 +42,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by! Let’s build something amazing together 😄</p>
+<p align="center">Thanks for stopping by! Let’s build something amazing together 😄 </p>
